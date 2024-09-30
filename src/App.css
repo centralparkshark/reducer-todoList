@@ -22,3 +22,9 @@ h1 {
 .title {
   width: 200px;
 }
+
+button:disabled {
+  color: rgb(46, 46, 46);
+  cursor: default;
+  border: none;
+}
